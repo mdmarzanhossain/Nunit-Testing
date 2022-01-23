@@ -1,0 +1,16 @@
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.AssemblyInfoInputs.cache
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.AssemblyInfo.cs
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.csproj.CoreCompileInputs.cache
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.exe
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.deps.json
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.runtimeconfig.json
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.runtimeconfig.dev.json
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.dll
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\ref\DemoProject.dll
+G:\C#\DemoProject\DemoProject\bin\Debug\net5.0\DemoProject.pdb
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.dll
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\ref\DemoProject.dll
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.pdb
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.genruntimeconfig.cache
+G:\C#\DemoProject\DemoProject\obj\Debug\net5.0\DemoProject.csproj.AssemblyReference.cache
